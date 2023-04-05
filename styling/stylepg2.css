@@ -8,7 +8,7 @@
 nav{
     order: 1;
     flex-basis: 100%;
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(80, 80, 80);
     padding: 5px;
@@ -33,7 +33,7 @@ nav a:last-child {
     position: relative;
     padding: 30px;
     padding-top: 100px;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     height: 400px;
     text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -71,7 +71,7 @@ thead tr th{
 }
 tbody tr:first-child td{
     background-color: rgb(78, 78, 78);
-    color:aliceblue;
+    color:rgb(255, 255, 255);
     padding-left: 15px;
 }
 tbody tr:nth-child(2) td{
@@ -79,14 +79,14 @@ tbody tr:nth-child(2) td{
   }
 tbody tr:last-child td{
     background-color: rgb(78, 78, 78);
-    color:aliceblue;
+    color:rgb(255, 255, 255);
     padding-left: 15px;
 }
 .footer {
     display: flex;
     height: 180px;
     background-color: black;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     justify-content: center;
     align-items: center;
